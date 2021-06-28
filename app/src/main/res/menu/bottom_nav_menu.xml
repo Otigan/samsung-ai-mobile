@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/upload_image"
+        android:enabled="true"
+        android:title="Upload"/>
+    <item
+        android:id="@+id/upload_history"
+        android:enabled="true"
+        android:title="History"/>
+    <item
+        android:id="@+id/favourite_dish"
+        android:enabled="true"
+        android:title="Favourite Dish"/>
+
+</menu>

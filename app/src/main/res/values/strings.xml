@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SamsungAI</string>
+    <string name="gallery_image">Выбрать изображение</string>
+    <string name="camera_image">Сделать фотографию</string>
+    <string name="upload_image">Загрузить</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
